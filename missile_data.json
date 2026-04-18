@@ -1,0 +1,5 @@
+[
+  { "name": "Falcon-X", "range_km": 1200, "speed_mach": 3.5 },
+  { "name": "Viper-9", "range_km": 800, "speed_mach": 2.8 },
+  { "name": "Orion-Strike", "range_km": 1500, "speed_mach": 4.2 }
+]
