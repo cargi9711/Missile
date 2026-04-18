@@ -1,0 +1,4 @@
+missile_system:
+  max_payload: 500
+  default_speed_mach: 3.0
+  guidance: "GPS + Inertial Navigation"
